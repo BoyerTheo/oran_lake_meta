@@ -12,5 +12,6 @@ L'ensemble des scripts retrouvés dans ce répertoire permettent de traiter, uni
 
 Liste des commandes :
 
-Le dossier "scripts" répertorie toutes les commandes utilisées pour lancer les différents logiciels sur le core cluster de l'IFB 
+Le dossier "commande" répertorie toutes les commandes utilisées pour lancer les différents logiciels sur le core cluster de l'IFB 
 
+NB : Toutes les commandes et scripts contiennent des chemins absoluments qu'ils faut changer pour faire fonctionner les différents/es commandes/scripts
