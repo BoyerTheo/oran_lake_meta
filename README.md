@@ -14,4 +14,8 @@ Liste des commandes :
 
 Le dossier "commande" répertorie toutes les commandes utilisées pour lancer les différents logiciels sur le core cluster de l'IFB 
 
+Le dossier "R" contient tous les scripts utilisés pour traiter les données générés par Squeezemeta et Kraken2.
+
+
 NB : Toutes les commandes et scripts contiennent des chemins absoluments qu'ils faut changer pour faire fonctionner les différents/es commandes/scripts
+NB2 : Un certain nombre de scripts et de commandes n'ont finalement pas été utilisés, le matériel et méthode contenue dans le rapport de stage permet de savoir quelles opérations ont été effectués. Cependant, bien que non utilisés pour obtenir les résultats finaux, ces commandes/scripts fonctionnent.
