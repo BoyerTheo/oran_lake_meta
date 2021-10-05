@@ -1,6 +1,6 @@
 # oran_lake_meta
 
-Ce répertoire git a été mise en place pour garder une trace des opérations réalisées au cours de mon stage de master2 au sein du laboratoire MMS : Mer Molecule Santé (Nouvellement BioSS) au sein de l'université du Mans. 
+Ce répertoire git a été mise en place pour garder une trace des opérations réalisées au cours de mon stage de master2 au sein du laboratoire MMS : Mer Molecule Santé (Nouvellement BioSS) de l'université du Mans. 
 
 L'ensemble des scripts retrouvés dans ce répertoire permettent de traiter, uniformiser et trier les données issues du séquençage shotgun métagénomique du lac Dayat Morsli d'Oran :
 
