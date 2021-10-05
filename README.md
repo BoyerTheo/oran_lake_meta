@@ -1,6 +1,6 @@
 # oran_lake_meta
 
-Ce répertoire git a été mise en place pour garder une trace des opérations réalisés au cours de mon stage de master2 au sein du laboratoire Mer Molecule Santé au sein de l'université du Mans (Actuellement BioSS). 
+Ce répertoire git a été mise en place pour garder une trace des opérations réalisées au cours de mon stage de master2 au sein du laboratoire MMS : Mer Molecule Santé (Nouvellement BioSS) au sein de l'université du Mans. 
 
 L'ensemble des scripts retrouvés dans ce répertoire permettent de traiter, uniformiser et trier les données issues du séquençage shotgun métagénomique du lac Dayat Morsli d'Oran :
 
@@ -13,12 +13,12 @@ L'ensemble des scripts retrouvés dans ce répertoire permettent de traiter, uni
 * remove_zero_cov.py : permet de faire le trie dans les contigs assemblés via metaSpades en fonction de leur couverture et de leur profondeur. Sont ainsi éliminés les contigs présentant un fort risque d'être des artéfacts (0 de couverture / profondeur trop faible).
 
 
-Le dossier "commande" répertorie toutes les commandes utilisées pour lancer les différents logiciels sur le core cluster de l'IFB.
+Le dossier "commandes" répertorie toutes les commandes utilisées pour lancer les différents logiciels sur le core cluster de l'IFB.
 
 
 Le dossier "R" contient tous les scripts utilisés pour traiter les données générées par Squeezemeta et Kraken2.
 
 
-NB : Toutes les commandes et scripts contiennent des chemins absoluments qu'ils faut changer pour faire fonctionner les différents/es commandes/scripts
+NB : Toutes les commandes et scripts contiennent des chemins absoluments qu'ils faut changer pour faire fonctionner les différents/es commandes/scripts.
 
 NB2 : Un certain nombre de scripts et de commandes n'ont finalement pas été utilisés, le matériel et méthodes contenue dans le pdf du rapport de stage "M2-MEMOIRE-Boyer_Theophile_2020_2021.pdf" permet de savoir quelles opérations ont été effectués. Cependant, bien que non utilisés pour obtenir les résultats finaux, ces commandes/scripts fonctionnent.
