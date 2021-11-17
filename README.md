@@ -1,6 +1,6 @@
 # oran_lake_meta
 
-Ce répertoire git a été mise en place pour garder une trace des opérations réalisées au cours de mon stage de master2 au sein du laboratoire MMS : Mer Molecule Santé (Nouvellement BioSS) de l'université du Mans. 
+Ce répertoire git a été mis en place pour garder une trace des opérations réalisées au cours de mon stage de master2 au sein du laboratoire MMS : Mer Molecule Santé (Nouvellement BioSS) de l'université du Mans. 
 
 L'ensemble des scripts retrouvés dans ce répertoire permettent de traiter, uniformiser et trier les données issues du séquençage shotgun métagénomique du lac Dayat Morsli d'Oran :
 
@@ -10,7 +10,7 @@ L'ensemble des scripts retrouvés dans ce répertoire permettent de traiter, uni
 
 * graph_kraken.py : permet d'obtenir un certain nombre de graphique à partir du rapport généré par Kraken2 via l'utilisation de matplotlib.
 
-* remove_zero_cov.py : permet de faire le trie dans les contigs assemblés via metaSpades en fonction de leur couverture et de leur profondeur. Sont ainsi éliminés les contigs présentant un fort risque d'être des artéfacts (0 de couverture / profondeur trop faible).
+* remove_zero_cov.py : permet de faire le tri dans les contigs assemblés via metaSpades en fonction de leur couverture et de leur profondeur. Sont ainsi éliminés les contigs présentant un fort risque d'être des artéfacts (0 de couverture / profondeur trop faible).
 
 
 Le dossier "commandes" répertorie toutes les commandes utilisées pour lancer les différents logiciels sur le core cluster de l'IFB.
